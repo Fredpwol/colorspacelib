@@ -6,9 +6,10 @@ README = (ROOT/'README.md').read_text()
 
 setup(
     name="colorsapcelib",
-    version='1.0.0',
+    version='0.9.6',
     author='Fredrick Pwol',
-    author_email='www.fredpwol@gmail.com',
+    author_email='fredpwol@gmail.com',
+    url=https://github.com/Fredpwol/colorspacelib.git,
     description='A Python color library That easier to work with',
     long_description=README,
     long_description_content_type='text/markdown',
