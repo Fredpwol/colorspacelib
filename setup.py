@@ -9,7 +9,7 @@ setup(
     version='0.9.6',
     author='Fredrick Pwol',
     author_email='fredpwol@gmail.com',
-    url=https://github.com/Fredpwol/colorspacelib.git,
+    url='https://github.com/Fredpwol/colorspacelib.git',
     description='A Python color library That easier to work with',
     long_description=README,
     long_description_content_type='text/markdown',
