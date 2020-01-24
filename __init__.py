@@ -1,5 +1,6 @@
 from colorspacelib import colorspace
-__version__ = '0.9.6'
+__version__ = '0.9.8'
+__author__ = 'Fredrick Pwol'
 
 black = colorspace.Color('#000000')
 white = colorspace.Color('#ffffff')
